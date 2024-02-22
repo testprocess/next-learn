@@ -1,3 +1,7 @@
+## Next JS가 다 좋은데 CSS in JS를 포기해야하니
+
+어쩔 수 없이 Express로 회귀해야겠네. 데이터베이스 연결도 편하고, 라우팅 지정 안해줘도 문제 없고 모든게 다 갖춰져 있고 러닝커브도 짧고 CRUD도 편한데, CSS in JS가 구조적으로 어렵. 내가 이래서 SSR 안써. 나중에 백엔드가 포함된 프로토타입을 빠르게 개발할 일 있으면 그떄 써야겠다.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

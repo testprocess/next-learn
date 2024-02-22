@@ -13,10 +13,9 @@ type PostType = {
 
 function Post({ title, content }: PostType) {
   return (
-    <div>
+    <div className={styles.card}>
       <h3>{title}</h3>
       <p>{content}</p>
-      <br />
     </div>
   );
 }
